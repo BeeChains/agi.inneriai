@@ -1,2 +1,0 @@
-# agi.inneriai
-AGI InnerIAI/
